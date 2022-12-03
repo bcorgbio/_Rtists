@@ -3,10 +3,11 @@ title: "Final Project - Module 8"
 author: "Rtists"
 date: "2022-12-03"
 output: html_document
+bibliography: BIOL3140.Rtists.finalproj.bib
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
 ```
 
 ## R Markdown
